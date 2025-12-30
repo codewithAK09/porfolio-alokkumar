@@ -163,7 +163,7 @@ html, body {
     color: white;
     opacity: 0.6;
     margin-left: 30px;
-    font-size: clamp(3rem, 6vw, 8rem);
+    font-size: 6vw;
     font-weight: 800;
     letter-spacing: 0.1em;
     text-transform: uppercase;
