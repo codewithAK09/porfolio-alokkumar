@@ -262,7 +262,7 @@ if (!isTouchDevice) {
 
 linkAnimation();
 connectButtonMagnetic();
-//profileImageInteractions();
+profileImageInteractions();
 arrowHoverAnimation();
 firstpageanim();
 skillSetAnim();
